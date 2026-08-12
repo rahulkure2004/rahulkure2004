@@ -124,11 +124,12 @@ A Java-based application designed to manage employee information, payroll proces
 
 ---
 
-## 📊 Result Analysis System
+## 🤖 AI Resume Analysis System
 
-A Java-based application for managing and analyzing student examination results.
+An AI-powered web application that analyzes resumes and provides useful insights to help candidates improve their profiles and better match job requirements.
 
-**Tech:** Java • MySQL
+**Tech:** React • Java • Spring Boot • REST API • MySQL
+
 
 ---
 
