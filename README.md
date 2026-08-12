@@ -30,7 +30,7 @@ I enjoy writing clean, maintainable code, exploring new technologies, and buildi
 * 🌱 Currently learning **Spring Boot, System Design, DSA, Docker & Cloud**
 * 🧠 Strong interest in **Backend Development**
 * 🤝 Open to Software Engineering opportunities
-* 📫 Reach me: **[YOUR_EMAIL@gmail.com](mailto:YOUR_EMAIL@gmail.com)**
+* 📫 Reach me: **[kurerahul547@gmail.com](mailto:kurerahul547@gmail.com)**
 
 ---
 
@@ -139,14 +139,16 @@ Modern developer portfolio showcasing my skills, projects, experience, and conta
 **Tech:** React • Vite • Tailwind CSS • Framer Motion • Spring Boot • MySQL
 
 ---
+# 🏆 Achievements & Certifications
 
-## 🗑️ Waste Classification System
-
-An image-based machine learning application for classifying different types of waste using computer vision and deep learning.
-
-**Tech:** Python • TensorFlow • OpenCV • Machine Learning
-
----
+* 🎓 **Bachelor of Engineering (B.E.) in Computer Engineering**
+* 📜 **NPTEL Certification – Database Management Systems (DBMS)**
+* 💻 **Web Development Internship** – CODELEVATE Web Development Program
+* 🏅 **Research Publication** – *MuRIL-Based Multilingual Cyberbullying Detection in Code-Mixed Social Media*
+* 🥇 **First Prize** – College Level Avishkar Competition
+* 🥇 **First Prize** – Zonal Level Avishkar Competition
+* 🏅 **University Level Avishkar Participation**
+------
 
 # 📚 Currently Learning
 
